@@ -1,7 +1,7 @@
 # openmm-mirrors
 The official [OpenMM repository](https://github.com/openmm/openmm) acts as the development version of the code, while the stable versions are only released as [zip files](https://github.com/openmm/openmm/releases) ([source](http://docs.openmm.org/latest/userguide/library.html#get-the-openmm-source-code)).
 
-This repository hosts those stable versions independently - they are provided in separate git branches. This is helpful for using the OpenMM source code as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+This repository hosts those stable versions independently - they are provided in separate git branches (e.g. the [`7.4.2` branch](https://github.com/uob-positron-imaging-centre/openmm-mirrors/tree/7.4.2)). This is helpful for using the OpenMM source code as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 ## OpenMM
 [OpenMM](http://openmm.org) is a toolkit for molecular simulation. It can be used either as a stand-alone application for running simulations, or as a library you call from your own code. It provides a combination of extreme flexibility (through custom forces and integrators), openness, and high performance (especially on recent GPUs) that make it truly unique among simulation codes.
